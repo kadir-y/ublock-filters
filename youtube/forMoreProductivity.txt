@@ -1,0 +1,6 @@
+!MORE PRODUCTIVITY
+!routes
+www.youtube.com##.ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/youtube music/i)
+www.youtube.com###footer > .ytd-guide-renderer.style-scope
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+www.youtube.com##.ytd-mini-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/youtube music/i)

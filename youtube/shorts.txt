@@ -1,0 +1,10 @@
+! 2024-03-02 https://www.youtube.com
+!SHORTS
+!routes
+www.youtube.com##.ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/shorts/i)
+www.youtube.com##yt-tab-shape.yt-tab-shape-wiz--host-clickable.yt-tab-shape-wiz:has-text(/shorts/i)
+www.youtube.com##.ytd-mini-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/shorts/i)
+www.youtube.com##yt-chip-cloud-chip-renderer.yt-chip-cloud-renderer.style-scope:has-text(/shorts/i)
+!content
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
